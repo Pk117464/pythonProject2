@@ -10,6 +10,8 @@
 
 
 # Press the green button in the gutter to run the script.
+from my func import print_hi
+
 if __name__ == '__main__':
     print_hi('PyCharm')
 
